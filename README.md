@@ -1,6 +1,5 @@
-# CodeIgniter 4 Development
+# As i have not learnt ci4 database migrations yet,sql code for db is in /database.sql file in root of project directory.
 
-As i have not learnt ci4 database migrations yet,sql code for db is in /database.sql file in root of project directory.
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure.
