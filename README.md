@@ -1,4 +1,4 @@
-# As i have not learnt ci4 database migrations yet,sql code for db is in /database.sql file in root of project directory.
+# As i have not learnt ci4 database migrations yet,sql code for db is in /database.sql file in the root of a project directory.
 
 ## What is CodeIgniter?
 
