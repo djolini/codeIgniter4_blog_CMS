@@ -1,0 +1,222 @@
+CRITICAL - 2020-10-10 05:29:14 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 05:30:25 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 05:31:05 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 05:31:53 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 05:32:19 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 05:33:12 --> Undefined variable: news
+#0 C:\wamp64\www\codeigniter4\app\Views\pages\home.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\c...', 16, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('pages/home', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(25): view('pages/home')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->showme('home')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+ERROR - 2020-10-10 05:34:27 --> mysqli_sql_exception: Table 'ci4_blog.posts' doesn't exist in C:\wamp64\www\codeigniter4\system\Database\MySQLi\Connection.php:331
+Stack trace:
+#0 C:\wamp64\www\codeigniter4\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\wamp64\www\codeigniter4\system\Database\BaseConnection.php(724): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter4\system\Database\BaseBuilder.php(1871): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4\system\Model.php(517): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4\app\Models\BlogModel.php(10): CodeIgniter\Model->findAll()
+#6 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(10): App\Models\BlogModel->getPosts()
+#7 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->index()
+#8 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#9 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#12 {main}
+CRITICAL - 2020-10-10 05:34:27 --> Table 'ci4_blog.posts' doesn't exist
+#0 C:\wamp64\www\codeigniter4\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\wamp64\www\codeigniter4\system\Database\BaseConnection.php(724): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\wamp64\www\codeigniter4\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\wamp64\www\codeigniter4\system\Database\BaseBuilder.php(1871): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\codeigniter4\system\Model.php(517): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\codeigniter4\app\Models\BlogModel.php(10): CodeIgniter\Model->findAll()
+#6 C:\wamp64\www\codeigniter4\app\Controllers\Pages.php(10): App\Models\BlogModel->getPosts()
+#7 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Pages->index()
+#8 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#9 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#12 {main}
+CRITICAL - 2020-10-10 06:25:51 --> Class 'App\Controllers\BlogModel' not found
+#0 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#1 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2020-10-10 06:27:04 --> Class 'App\Model\BlogModel' not found
+#0 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#1 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2020-10-10 06:27:12 --> Class 'App\Model\BlogModel' not found
+#0 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#1 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2020-10-10 06:27:27 --> required  is not a valid rule.
+#0 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(332): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+#1 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(188): CodeIgniter\Validation\Validation->processRules('title', 'title', NULL, Array, Array)
+#2 C:\wamp64\www\codeigniter4\system\Controller.php(210): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(20): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 06:29:23 --> required  is not a valid rule.
+#0 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(332): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+#1 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(188): CodeIgniter\Validation\Validation->processRules('title', 'title', NULL, Array, Array)
+#2 C:\wamp64\www\codeigniter4\system\Controller.php(210): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(20): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 06:30:14 --> required  is not a valid rule.
+#0 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(332): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+#1 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(188): CodeIgniter\Validation\Validation->processRules('title', 'title', NULL, Array, Array)
+#2 C:\wamp64\www\codeigniter4\system\Controller.php(210): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(20): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 06:31:02 --> Invalid file: blog/create.php
+#0 C:\wamp64\www\codeigniter4\system\View\View.php(225): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blog/create.php')
+#1 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('blog/create', Array, true)
+#2 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(24): view('blog/create')
+#3 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2020-10-10 06:44:49 --> required  is not a valid rule.
+#0 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(332): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+#1 C:\wamp64\www\codeigniter4\system\Validation\Validation.php(188): CodeIgniter\Validation\Validation->processRules('title', 'title', NULL, Array, Array)
+#2 C:\wamp64\www\codeigniter4\system\Controller.php(210): CodeIgniter\Validation\Validation->run()
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(20): CodeIgniter\Controller->validate(Array)
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 07:01:53 --> Class 'Config\Service' not found
+#0 C:\wamp64\www\codeigniter4\system\View\View.php(241): include()
+#1 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('create', Array, true)
+#2 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(24): view('create')
+#3 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->create()
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2020-10-10 07:49:40 --> Invalid file: blog/post.php
+#0 C:\wamp64\www\codeigniter4\system\View\View.php(225): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blog/post.php')
+#1 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('blog/post', Array, true)
+#2 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(13): view('blog/post')
+#3 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->post('dsadsadsad')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2020-10-10 07:50:16 --> Invalid file: blog/post.php
+#0 C:\wamp64\www\codeigniter4\system\View\View.php(225): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('blog/post.php')
+#1 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('blog/post', Array, true)
+#2 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(13): view('blog/post')
+#3 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->post('dsadsadsad')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#8 {main}
+CRITICAL - 2020-10-10 08:26:59 --> Undefined index: created_at
+#0 C:\wamp64\www\codeigniter4\app\Views\post.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 6, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('post', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(13): view('post')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->post('dsadsadsad')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
+CRITICAL - 2020-10-10 08:27:48 --> Undefined index: created_at
+#0 C:\wamp64\www\codeigniter4\app\Views\post.php(6): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\wamp64\\www\\c...', 6, Array)
+#1 C:\wamp64\www\codeigniter4\system\View\View.php(241): include('C:\\wamp64\\www\\c...')
+#2 C:\wamp64\www\codeigniter4\system\Common.php(1217): CodeIgniter\View\View->render('post', Array, true)
+#3 C:\wamp64\www\codeigniter4\app\Controllers\Blog.php(13): view('post')
+#4 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(964): App\Controllers\Blog->post('dsadsadsad')
+#5 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(449): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\wamp64\www\codeigniter4\system\CodeIgniter.php(357): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\codeigniter4\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#8 C:\wamp64\www\codeigniter4\system\Commands\Server\rewrite.php(35): require_once('C:\\wamp64\\www\\c...')
+#9 {main}
